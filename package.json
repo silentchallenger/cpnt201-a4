@@ -1,0 +1,25 @@
+{
+  "name": "cpnt201-a4",
+  "version": "1.0.0",
+  "description": "cpnt201-a4",
+  "main": "index.html",
+  "scripts": {
+    "build": "npx tailwindcss -i assets/css/main.css -o assets/css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentchallenger/cpnt201-a4.git"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Rustu Mesut Eser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentchallenger/cpnt201-a4/issues"
+  },
+  "homepage": "https://github.com/silentchallenger/cpnt201-a4#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
