@@ -28,7 +28,7 @@ module.exports = {
       maxWidth: {
         '30': '30ch',
         '40': '40ch',
-        '800': '800px'
+        '850': '850px'
       },
       boxShadow: {
         'button': '0px 0px 12px 3px #4FA39F',
